@@ -9,15 +9,15 @@ Hello! I’m a Software Engineer who loves building modern digital experiences. 
 ## 🌟 What I Do
 
 A highly experienced Software Engineer with over 6 years of expertise in software development, demonstrating a strong track record of delivering robust, efficient, and scalable digital solutions. Proven ability to collaborate effectively, drive product enhancements, and ensure high-quality software aligned with business objectives. Here are some of the projects I have worked on:
-- 🚀 Business & Queue Management Systems – Developing queue applications with efficient customer flow and clean architecture
-- 🏥 Healthcare & Clinic Solutions – Building clinic management systems with secure workflows and modern design
-- 🌴 Tour & Travel Booking Platforms – Creating travel booking apps with seamless reservation experiences
-- 📊 Sales Force Automation – Delivering mobile and web tools to optimize sales operations and field activities
-- 👥 HR & Employee Management Systems – Building staff administration and attendance solutions with scalable structure
-- ✔️ Quality Control Applications – Implementing QC systems with clear validation and inspection processes
-- 🔌 RESTful API Development – Designing and integrating backend services with secure and efficient REST APIs
-- 🌐 Web Portals & Landing Pages – Developing frontend websites and portals using Clean Architecture, MVC, and DI for maintainable codebases
-- 🧩 Clean Architecture & Dependency Injection – Consistently applying Clean Architecture and DI across all mobile, API and web projects
+- 🚀 **Business & Queue Systems** - Efficient queue apps built with Clean Architecture
+- 🏥 **Clinic & Healthcare Apps** - Secure and streamlined medical solutions
+- 🌴 **Travel Booking Platforms** - Smooth and user-friendly reservation experiences
+- 📊 **Sales Force Automation** - Web & mobile tools that boost field productivity
+- 👥 **HR & Employee Systems** - Scalable workforce and attendance management
+- ✔️ **Quality Control Apps** - Clear inspection and validation processes
+- 🔌 **RESTful API Services** - Secure and optimized backend integrations
+- 🌐 **Web Portals & Landing Pages** - Clean Architecture, MVC, and DI for maintainable frontends
+- 🧩 **Clean Architecture & DI** - Applied consistently across mobile, API, and web projects
 
 ## 🛠 Technologies & Tools
 
