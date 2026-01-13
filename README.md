@@ -45,8 +45,9 @@ I have strong expertise in web development using JavaScript, TypeScript, Express
 
 ### ⚙️ Backend & Frameworks
 <div align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
   <img src="https://img.shields.io/badge/Yii_Framework-0073AA?style=for-the-badge&logo=yii&logoColor=white" alt="Yii"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </div>
 
